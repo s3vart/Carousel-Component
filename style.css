@@ -22,7 +22,7 @@ body {
 }
 
 .carousel {
-  max-width: 800px;
+  width: 800px;
   margin: 100px auto;
   background-color: #087f5b;
   /* padding: 32px; */
